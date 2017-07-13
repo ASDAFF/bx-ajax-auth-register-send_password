@@ -1,0 +1,6 @@
+.bx-system-auth-registration{text-align: center}
+.bx-system-auth-registration form{display: inline-block;text-align: left}
+.bx-system-auth-registration .p{margin: 0 0 15px}
+font.errortext, .bx-system-auth-registration .asterisk{color: #ff0000;}
+font.notetext{color: #008000;}
+.api-mf-antibot {border: 0 none !important;font-size: 0 !important;height: 0 !important;line-height: 0 !important;padding: 0 !important;position: absolute !important;right: 0 !important;top: 0 !important;width: 0 !important;}

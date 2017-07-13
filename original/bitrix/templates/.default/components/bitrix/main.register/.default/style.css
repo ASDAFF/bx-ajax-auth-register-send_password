@@ -1,0 +1,6 @@
+.bx-main-register{text-align: center}
+.bx-main-register form{display: inline-block;text-align: left}
+.bx-main-register .p{margin: 0 0 15px}
+font.errortext, .bx-main-register .asterisk{color: #ff0000;}
+font.notetext{color: #008000;}
+.api-mf-antibot {border: 0 none !important;font-size: 0 !important;height: 0 !important;line-height: 0 !important;padding: 0 !important;position: absolute !important;right: 0 !important;top: 0 !important;width: 0 !important;}
